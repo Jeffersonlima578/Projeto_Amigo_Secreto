@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center{
+    margin: 0 auto !important;
+}
+
+p, .centro{
+    margin-left: 80px !important;
+}
+
+.centro-div{
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+
+
+
+
+
+
+
+h1 {
+    background-color: aquamarine;
+    margin-left: 0;
+    color:  purple;
+    
+}
+
+img {
+    margin-top: 5px;
+    
+}
+
+
+
+
+
+
+
+P {
+    height:0px;
+    background-color: blue;
+}
